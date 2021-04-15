@@ -1,0 +1,22 @@
+{
+  "name": "mylibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuodaY/mylibraryapp.git"
+  },
+  "author": "NuodaY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NuodaY/mylibraryapp/issues"
+  },
+  "homepage": "https://github.com/NuodaY/mylibraryapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
